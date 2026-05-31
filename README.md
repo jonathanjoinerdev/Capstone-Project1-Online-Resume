@@ -1,2 +1,2 @@
 # Capstone-Project1-Online-Resume
-Resume using HTML
+Webpage Resume made using only HTML
